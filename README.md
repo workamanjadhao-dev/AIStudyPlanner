@@ -1,6 +1,6 @@
 # 📚 AI Study Planner - Android App
 
-A fully functional Android study planner app powered by **Claude AI (Anthropic)**.
+A fully functional Android study planner app
 
 ---
 
@@ -200,4 +200,3 @@ Cost is pay-per-use via your Anthropic API key.
 
 ---
 
-*Built with ❤️ using Claude AI + Android Jetpack*
